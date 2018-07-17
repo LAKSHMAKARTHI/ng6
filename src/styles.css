@@ -1,0 +1,27 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+background: #2e9ce6;
+color:#fff;
+padding: 3em;
+font-family: 'Courier New', Courier, monospace; 
+}
+
+ul {
+list-style-type: none;
+padding:0;
+margin: 0 0 2em 0;   
+}
+
+ul li {
+display: inline;
+margin-right: 30px;
+}
+
+ul li a {
+    font-size: 1.5em;
+}
+
+a {
+    color:#fff;
+    text-decoration: none;
+}
